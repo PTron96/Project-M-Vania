@@ -1,0 +1,1208 @@
+﻿Log file open, 12/03/18 13:43:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203493
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.594s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=ZeMightyPTron -epicuserid=feb29bb9fb5a4d218562cf4ba7b0f390 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2018.12.03-18.43.03:021][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2018.12.03-18.43.03:022][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.03-18.43.03:023][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.03-18.43.03:023][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.03-18.43.03:024][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.03-18.43.03:024][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.03-18.43.03:024][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.03-18.43.03:024][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.03-18.43.03:024][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.03-18.43.03:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.03-18.43.03:024][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.03-18.43.03:026][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-18.43.03:026][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-18.43.03:027][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-18.43.03:027][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-18.43.03:027][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-18.43.03:077][  0]LogHAL: Display: Platform has ~ 8 GB [8535633920 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-18.43.03:077][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-18.43.03:077][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-18.43.03:077][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.03-18.43.03:078][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.03-18.43.03:078][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.03-18.43.03:078][  0]LogInit: Computer: DESKTOP-OLGM7SP
+[2018.12.03-18.43.03:078][  0]LogInit: User: PTron
+[2018.12.03-18.43.03:078][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-18.43.03:078][  0]LogInit: High frequency timer resolution =2.156250 MHz
+[2018.12.03-18.43.03:079][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.03-18.43.03:079][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-18.43.03:079][  0]LogMemory: Process Physical Memory: 102.27 MB used, 102.27 MB peak
+[2018.12.03-18.43.03:079][  0]LogMemory: Process Virtual Memory: 84.48 MB used, 84.48 MB peak
+[2018.12.03-18.43.03:079][  0]LogMemory: Physical Memory: 4544.65 MB used,  3595.57 MB free, 8140.21 MB total
+[2018.12.03-18.43.03:079][  0]LogMemory: Virtual Memory: 4628.02 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2018.12.03-18.43.03:103][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-18.43.03:103][  0]LogInit: Using OS detected locale (en-CA).
+[2018.12.03-18.43.03:104][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-18.43.03:595][  0]LogStreaming: Display: Took  0.491s to InitEngineTextLocalization.
+[2018.12.03-18.43.03:595][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-18.43.03:626][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-18.43.03:626][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-18.43.03:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-18.43.03:847][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-18.43.03:907][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.12.03-18.43.03:907][  0]LogD3D11RHI:       4053/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.03-18.43.03:910][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-18.43.03:910][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-18.43.03:910][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-18.43.03:918][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-18.43.03:918][  0]LogD3D11RHI:     GPU DeviceId: 0x1406 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-18.43.03:918][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-18.43.03:918][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.12.03-18.43.03:919][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.12.03-18.43.03:919][  0]LogD3D11RHI:   Driver Version: 397.93 (internal:24.21.13.9793, unified:397.93)
+[2018.12.03-18.43.03:919][  0]LogD3D11RHI:      Driver Date: 5-22-2018
+[2018.12.03-18.43.03:919][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.12.03-18.43.03:962][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-18.43.03:981][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-18.43.04:622][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-18.43.04:639][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-18.43.04:656][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-18.43.04:673][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-18.43.04:690][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-18.43.04:706][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-18.43.04:724][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-18.43.04:741][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-18.43.04:749][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-18.43.04:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:840][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-18.43.04:842][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-18.43.04:912][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-18.43.04:912][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-18.43.04:944][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-18.43.04:944][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-18.43.04:959][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-18.43.04:974][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-18.43.04:990][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-18.43.05:006][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-18.43.05:063][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-18.43.05:063][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-18.43.05:063][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-18.43.05:136][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Intermediate/Shaders/WorkingDirectory/13012/).
+[2018.12.03-18.43.05:136][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/P Tron/AppData/Local/Temp/UnrealShaderWorkingDir/153957D04F79557B817D8D867BC7469A/'.
+[2018.12.03-18.43.05:139][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-18.43.05:139][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-18.43.05:139][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-18.43.05:799][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-18.43.05:876][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/P Tron/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-18.43.05:876][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/P Tron/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.03-18.43.05:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-18.43.05:876][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-18.43.05:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-18.43.05:876][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-18.43.05:894][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-18.43.05:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-18.43.05:894][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.03-18.43.05:907][  0]LogDerivedDataCache: Using Local data cache path C:/Users/P Tron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-18.43.05:907][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-18.43.05:907][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-18.43.05:936][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-18.43.05:938][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-18.43.05:938][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-18.43.06:044][  0]LogAssetRegistry: FAssetRegistry took 0.0357 seconds to start up
+[2018.12.03-18.43.06:424][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-18.43.06:613][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-18.43.06:618][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-18.43.06:618][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-18.43.06:618][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-18.43.06:618][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-18.43.06:634][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2018.12.03-18.43.07:299][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.132386 seconds
+[2018.12.03-18.43.07:305][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.03-18.43.07:306][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.03-18.43.07:306][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-18.43.08:377][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-18.43.08:391][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-18.43.09:198][  0]SourceControl: Source control is disabled
+[2018.12.03-18.43.09:198][  0]SourceControl: Source control is disabled
+[2018.12.03-18.43.09:200][  0]SourceControl: Source control is disabled
+[2018.12.03-18.43.09:201][  0]SourceControl: Source control is disabled
+[2018.12.03-18.43.09:373][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-18.43.09:431][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-18.43.09:582][  0]LogEngine: Initializing Engine...
+[2018.12.03-18.43.09:583][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-18.43.09:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-18.43.09:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-18.43.09:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-18.43.09:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-18.43.09:886][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-18.43.09:904][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-18.43.09:922][  0]LogInit: XAudio2 using 'LEN LT2223zwC (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-18.43.09:946][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-18.43.09:946][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-18.43.10:275][  0]LogDerivedDataCache: Saved boot cache 0.33s 71MB C:/Users/P Tron/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-18.43.10:313][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-18.43.10:338][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-18.43.10:368][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-18.43.10:401][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-18.43.10:503][  0]LocalizationService: Localization service is disabled
+[2018.12.03-18.43.11:185][  0]LogFileCache: Scanning file cache for directory 'C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Content/' took 0.02s
+[2018.12.03-18.43.11:185][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-18.43.11:185][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-18.43.11:185][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-18.43.11:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-18.43.11:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-18.43.11:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-18.43.11:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-18.43.11:339][  0]SourceControl: Source control is disabled
+[2018.12.03-18.43.11:339][  0]Cmd: MAP LOAD FILE="../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-18.43.11:381][  0]LightingResults: New page: Lighting Build
+[2018.12.03-18.43.11:385][  0]MapCheck: New page: Map Check
+[2018.12.03-18.43.11:385][  0]LightingResults: New page: Lighting Build
+[2018.12.03-18.43.13:691][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.03-18.43.13:780][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-18.43.13:829][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-18.43.13:829][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2018.12.03-18.43.13:829][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 2.490
+[2018.12.03-18.43.14:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-18.43.14:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-18.43.14:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-18.43.14:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-18.43.14:831][  0]LogCollectionManager: Loaded 0 collections in 0.007512 seconds
+[2018.12.03-18.43.14:969][  0]LogFileCache: Scanning file cache for directory 'C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Collections/' took 0.01s
+[2018.12.03-18.43.14:969][  0]LogFileCache: Scanning file cache for directory 'C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Content/Developers/PTron/Collections/' took 0.00s
+[2018.12.03-18.43.14:969][  0]LogFileCache: Scanning file cache for directory 'C:/Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Content/Collections/' took 0.00s
+[2018.12.03-18.43.14:969][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.03-18.43.15:001][  0]LogContentBrowser: Native class hierarchy populated in 0.0293 seconds. Added 2651 classes and 620 folders.
+[2018.12.03-18.43.15:198][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-18.43.15:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.15:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.15:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.15:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:082][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:319][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.16:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-18.43.17:521][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-18.43.17:594][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.03-18.43.18:945][  0]LogSlate: Took 0.001036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-18.43.18:952][  0]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-18.43.19:057][  0]LogSlate: Took 0.032052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-18.43.19:297][  0]LogRenderer: Reallocating scene render targets to support 1208x524 Format 10 NumSamples 1 (Frame:1).
+[2018.12.03-18.43.20:033][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-18.43.20:033][  0]LogLoad: (Engine Initialization) Total time: 22.46 seconds
+[2018.12.03-18.43.20:033][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-18.43.20:044][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-18.43.20:144][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-18.43.20:359][  2]LogAssetRegistry: Asset discovery search completed in 14.3364 seconds
+[2018.12.03-18.43.20:361][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-18.43.20:361][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.12.03-18.43.21:790][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.43.30:114][114]LogSlate: Took 0.025498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-18.43.36:125][598]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-18.43.37:172][598]LogAIModule: Creating AISystem for world DevTesting
+[2018.12.03-18.43.37:182][598]LogAssetEditorManager: Opening Asset editor for World /Game/Project-M-Vania/Levels-Maps/DevTesting.DevTesting
+[2018.12.03-18.43.37:243][598]Cmd: MAP LOAD FILE="../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Content/Project-M-Vania/Levels-Maps/DevTesting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-18.43.37:243][598]LightingResults: New page: Lighting Build
+[2018.12.03-18.43.37:244][598]LoadErrors: New page: Loading map: DevTesting.umap
+[2018.12.03-18.43.37:245][598]MapCheck: New page: Map Check
+[2018.12.03-18.43.37:245][598]LightingResults: New page: Lighting Build
+[2018.12.03-18.43.37:429][598]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-18.43.37:498][598]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-18.43.37:498][598]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2018.12.03-18.43.37:498][598]LogFileHelpers: Loading map 'DevTesting' took 0.257
+[2018.12.03-18.46.37:124][968]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_Tiles_Sprite_10)
+[2018.12.03-18.46.48:271][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.46.54:274][536]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_Tiles_Sprite_10)
+[2018.12.03-18.47.00:288][140]Cmd: EDIT COPY
+[2018.12.03-18.47.00:937][140]Cmd: EDIT PASTE
+[2018.12.03-18.47.07:614][771]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_32)
+[2018.12.03-18.47.16:315][729]Cmd: EDIT COPY
+[2018.12.03-18.47.16:557][754]Cmd: EDIT PASTE
+[2018.12.03-18.47.19:913][112]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Background_Sprite_4)
+[2018.12.03-18.47.21:707][256]LogEditorViewport: Clicking Background
+[2018.12.03-18.48.50:754][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.49.02:233][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.49.10:785][364]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_42)
+[2018.12.03-18.49.12:202][518]Cmd: DELETE
+[2018.12.03-18.49.12:202][518]Cmd: ACTOR DELETE
+[2018.12.03-18.49.12:326][518]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.49.12:367][518]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2018.12.03-18.49.14:711][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.49.20:760][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.49.29:933][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.49.40:005][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.49.45:778][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.49.49:551][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-18.49.59:926][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.50.05:222][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.50.10:953][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.50.14:108][220]Cmd: DELETE
+[2018.12.03-18.50.14:108][220]Cmd: ACTOR DELETE
+[2018.12.03-18.50.14:116][220]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.50.14:148][220]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.12.03-18.50.41:908][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.03:994][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.08:001][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.11:962][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.19:008][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.21:979][562]Cmd: DELETE
+[2018.12.03-18.51.21:979][562]Cmd: ACTOR DELETE
+[2018.12.03-18.51.21:987][562]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.51.22:017][562]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.12.03-18.51.23:013][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.25:316][908]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_54)
+[2018.12.03-18.51.32:507][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.40:681][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.51:291][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.51.58:901][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.52.02:530][ 50]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_58)
+[2018.12.03-18.52.09:506][837]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_57)
+[2018.12.03-18.52.11:021][ 11]Cmd: DELETE
+[2018.12.03-18.52.11:021][ 11]Cmd: ACTOR DELETE
+[2018.12.03-18.52.11:029][ 11]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.52.11:060][ 11]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.12.03-18.52.15:968][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.52.38:519][999]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_43)
+[2018.12.03-18.52.40:680][248]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_44)
+[2018.12.03-18.52.41:681][361]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_43)
+[2018.12.03-18.52.56:287][811]Cmd: EDIT COPY
+[2018.12.03-18.52.56:589][835]Cmd: EDIT PASTE
+[2018.12.03-18.53.04:636][536]LogEditorViewport: Clicking Background
+[2018.12.03-18.53.36:129][373]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-18.53.44:990][373]LogSavePackage: Moving '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/DevTesting_Auto15CC546BE4BE821FE05DCD4BE86C39171.tmp' to '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Autosaves/Game/Project-M-Vania/Levels-Maps/DevTesting_Auto1.umap'
+[2018.12.03-18.53.45:378][373]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project-M-Vania/Levels-Maps/DevTesting' took 8.388
+[2018.12.03-18.53.45:378][373]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.388
+[2018.12.03-18.54.38:834][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.54.45:103][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.54.49:753][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.54.57:739][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.55.04:546][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.55.12:511][726]Cmd: TRANSACTION UNDO
+[2018.12.03-18.55.12:511][726]LogEditorTransaction: Undo Move Actors
+[2018.12.03-18.55.15:599][940]LogEditorViewport: Clicking Background
+[2018.12.03-18.55.16:721][ 68]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_75)
+[2018.12.03-18.55.20:797][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.55.43:699][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.55.49:055][757]Cmd: DELETE
+[2018.12.03-18.55.49:055][757]Cmd: ACTOR DELETE
+[2018.12.03-18.55.49:064][757]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.55.49:095][757]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.12.03-18.55.50:137][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.55.51:900][ 57]Cmd: DELETE
+[2018.12.03-18.55.51:900][ 57]Cmd: ACTOR DELETE
+[2018.12.03-18.55.51:908][ 57]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.55.51:938][ 57]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.12.03-18.55.52:692][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.55.56:729][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.56.06:035][558]LogEditorViewport: Clicking Background
+[2018.12.03-18.56.09:912][964]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_77)
+[2018.12.03-18.56.15:848][579]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_75)
+[2018.12.03-18.56.24:976][583]Cmd: TRANSACTION UNDO
+[2018.12.03-18.56.24:976][583]LogEditorTransaction: Undo Marquee Select
+[2018.12.03-18.56.25:455][626]Cmd: TRANSACTION UNDO
+[2018.12.03-18.56.25:455][626]LogEditorTransaction: Undo Move Actors
+[2018.12.03-18.56.29:872][102]Cmd: EDIT COPY
+[2018.12.03-18.56.30:873][216]Cmd: EDIT PASTE
+[2018.12.03-18.56.42:568][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.56.55:112][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.56.56:988][105]Cmd: DELETE
+[2018.12.03-18.56.56:988][105]Cmd: ACTOR DELETE
+[2018.12.03-18.56.56:997][105]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.56.57:026][105]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.12.03-18.57.00:510][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.57.19:686][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.57.22:029][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-18.57.30:584][727]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_Tiles_Sprite_22)
+[2018.12.03-18.57.31:877][863]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_to_Ground_Tiles_Sprite_55)
+[2018.12.03-18.57.32:377][915]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_Tiles_Sprite_21)
+[2018.12.03-18.57.38:217][541]Cmd: EDIT COPY
+[2018.12.03-18.57.38:471][568]Cmd: EDIT PASTE
+[2018.12.03-18.57.42:279][945]LogEditorViewport: Clicking Background
+[2018.12.03-18.58.24:026][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.58.32:266][762]Cmd: DELETE
+[2018.12.03-18.58.32:266][762]Cmd: ACTOR DELETE
+[2018.12.03-18.58.32:277][762]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-18.58.32:307][762]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.03-18.58.33:690][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.58.36:504][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.58.39:842][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-18.58.46:802][196]LogEditorViewport: Clicking Background
+[2018.12.03-18.59.17:562][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-18.59.17:989][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-18.59.18:549][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-18.59.24:092][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-18.59.24:660][ 87]LogSavePackage: Moving '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/DevTestingFA531DA1433741D9C61DD0AAA636C2D9.tmp' to '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Content/Project-M-Vania/Levels-Maps/DevTesting.umap'
+[2018.12.03-18.59.24:696][ 87]LogFileHelpers: Saving map 'DevTesting' took 0.466
+[2018.12.03-18.59.30:764][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.37.31:485][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.37.47:993][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.38.17:185][530]LogSavePackage: Moving '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/DevTesting_Auto2AB341A6E47128130E436FFAB3493DD37.tmp' to '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Autosaves/Game/Project-M-Vania/Levels-Maps/DevTesting_Auto2.umap'
+[2018.12.03-19.38.17:571][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project-M-Vania/Levels-Maps/DevTesting' took 25.441
+[2018.12.03-19.38.17:571][530]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 25.441
+[2018.12.03-19.38.25:371][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.38.36:221][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.38.41:486][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.38.46:427][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.38.50:653][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.39.10:258][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.39.16:210][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.39.21:062][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.39.32:123][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.39.37:563][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.39.40:711][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.39.52:904][439]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_70)
+[2018.12.03-19.39.53:917][537]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_68)
+[2018.12.03-19.39.54:703][617]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_69)
+[2018.12.03-19.39.55:436][688]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_71)
+[2018.12.03-19.39.56:129][761]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_72)
+[2018.12.03-19.40.00:703][286]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_65)
+[2018.12.03-19.40.03:690][631]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_72)
+[2018.12.03-19.40.06:166][914]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_71)
+[2018.12.03-19.40.11:269][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.40.14:097][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.40.16:716][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.40.44:868][278]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_68)
+[2018.12.03-19.40.50:512][891]Cmd: EDIT COPY
+[2018.12.03-19.40.51:815][891]Cmd: EDIT PASTE
+[2018.12.03-19.40.54:121][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.40.57:545][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.04:901][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.07:351][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.10:459][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.17:192][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.20:839][955]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_77)
+[2018.12.03-19.41.25:148][457]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_76)
+[2018.12.03-19.41.30:728][107]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_72)
+[2018.12.03-19.41.34:470][515]Cmd: DELETE
+[2018.12.03-19.41.34:480][515]Cmd: ACTOR DELETE
+[2018.12.03-19.41.34:780][515]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.41.34:917][515]LogEditorActor: Deleted 1 Actors (0.369 secs)
+[2018.12.03-19.41.36:152][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.38:532][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.41:271][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.48:673][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.41.51:225][305]Cmd: DELETE
+[2018.12.03-19.41.51:225][305]Cmd: ACTOR DELETE
+[2018.12.03-19.41.51:234][305]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.41.51:300][305]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2018.12.03-19.41.52:269][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.42.13:903][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.42.16:764][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.42.23:025][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.42.28:459][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.42.30:562][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.42.34:760][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.43.07:290][  0]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_16)
+[2018.12.03-19.43.15:885][716]Cmd: EDIT COPY
+[2018.12.03-19.43.16:220][729]Cmd: EDIT PASTE
+[2018.12.03-19.43.23:761][341]LogEditorViewport: Clicking Background
+[2018.12.03-19.43.31:689][180]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_79)
+[2018.12.03-19.43.34:188][437]Cmd: EDIT COPY
+[2018.12.03-19.43.37:166][730]Cmd: EDIT COPY
+[2018.12.03-19.43.37:503][762]Cmd: EDIT PASTE
+[2018.12.03-19.43.44:685][507]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_80)
+[2018.12.03-19.43.47:445][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.43.50:432][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.43.53:359][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.44.08:591][895]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_59)
+[2018.12.03-19.44.14:531][502]Cmd: EDIT COPY
+[2018.12.03-19.44.32:971][253]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_56)
+[2018.12.03-19.44.33:729][319]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_58)
+[2018.12.03-19.44.36:297][566]Cmd: EDIT COPY
+[2018.12.03-19.44.38:313][786]Cmd: EDIT PASTE
+[2018.12.03-19.44.50:366][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.45.00:609][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.45.04:640][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.45.13:039][380]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_95)
+[2018.12.03-19.45.14:592][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.45.17:278][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.45.25:593][642]Cmd: DELETE
+[2018.12.03-19.45.25:604][642]Cmd: ACTOR DELETE
+[2018.12.03-19.45.26:251][642]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.45.27:664][642]LogEditorActor: Deleted 1 Actors (2.040 secs)
+[2018.12.03-19.45.27:936][667]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Background_Sprite_6)
+[2018.12.03-19.45.28:864][771]LogEditorViewport: Clicking Background
+[2018.12.03-19.45.30:136][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.45.37:840][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.45.41:454][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.46.36:356][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.46.54:497][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.46.56:773][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.47.00:198][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.47.11:856][463]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_68)
+[2018.12.03-19.47.14:842][793]Cmd: EDIT COPY
+[2018.12.03-19.47.15:451][862]Cmd: EDIT PASTE
+[2018.12.03-19.47.39:091][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.47.41:080][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.47.44:738][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.48.01:251][845]LogEditorViewport: Clicking Background
+[2018.12.03-19.48.10:785][663]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_67)
+[2018.12.03-19.48.11:836][780]Cmd: DELETE
+[2018.12.03-19.48.11:836][780]Cmd: ACTOR DELETE
+[2018.12.03-19.48.11:846][780]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.48.11:881][780]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.12.03-19.48.14:608][ 78]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_21)
+[2018.12.03-19.48.18:575][523]Cmd: EDIT COPY
+[2018.12.03-19.48.18:879][549]Cmd: EDIT PASTE
+[2018.12.03-19.48.24:759][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.48.26:774][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.48.29:327][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.48.31:448][949]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_105)
+[2018.12.03-19.48.35:297][353]LogEditorViewport: Clicking Background
+[2018.12.03-19.48.45:074][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.48.47:843][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.48.54:081][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.48.59:810][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.01:768][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.05:345][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.11:654][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.14:352][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.20:169][207]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_107)
+[2018.12.03-19.49.22:183][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.25:671][824]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_108)
+[2018.12.03-19.49.27:241][  5]Cmd: DELETE
+[2018.12.03-19.49.27:241][  5]Cmd: ACTOR DELETE
+[2018.12.03-19.49.27:252][  5]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.49.27:282][  5]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.03-19.49.28:141][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.30:593][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.34:569][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.35:989][988]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_107)
+[2018.12.03-19.49.36:506][ 45]Cmd: DELETE
+[2018.12.03-19.49.36:506][ 45]Cmd: ACTOR DELETE
+[2018.12.03-19.49.36:515][ 45]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.49.36:546][ 45]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.12.03-19.49.37:084][108]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_108)
+[2018.12.03-19.49.42:961][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.47:666][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.52:332][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.49.55:359][147]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_107)
+[2018.12.03-19.50.01:974][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.50.03:765][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.50.07:434][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.50.22:129][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.50.23:612][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.50.26:469][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.50.29:139][812]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_110)
+[2018.12.03-19.51.45:082][501]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_110)
+[2018.12.03-19.51.47:375][719]LogEditorViewport: Clicking Background
+[2018.12.03-19.51.47:986][765]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_110)
+[2018.12.03-19.51.48:461][800]Cmd: DELETE
+[2018.12.03-19.51.48:461][800]Cmd: ACTOR DELETE
+[2018.12.03-19.51.48:473][800]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.51.48:504][800]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.03-19.51.54:177][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.51.55:861][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.51.58:304][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.05:007][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.06:617][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.09:550][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.13:946][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.16:121][857]Cmd: DELETE
+[2018.12.03-19.52.16:121][857]Cmd: ACTOR DELETE
+[2018.12.03-19.52.16:131][857]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.52.16:160][857]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.12.03-19.52.16:897][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.18:832][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.23:078][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.25:082][854]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_112)
+[2018.12.03-19.52.29:016][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.37:002][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.52.59:479][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.53.05:882][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.53.08:704][946]Cmd: DELETE
+[2018.12.03-19.53.08:704][946]Cmd: ACTOR DELETE
+[2018.12.03-19.53.08:714][946]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.53.08:745][946]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.03-19.53.11:629][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.53.15:757][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.53.18:859][ 36]Cmd: DELETE
+[2018.12.03-19.53.18:859][ 36]Cmd: ACTOR DELETE
+[2018.12.03-19.53.18:869][ 36]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.53.18:899][ 36]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.12.03-19.53.32:244][541]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_113)
+[2018.12.03-19.53.37:004][ 78]Cmd: EDIT COPY
+[2018.12.03-19.53.37:341][117]Cmd: EDIT PASTE
+[2018.12.03-19.53.42:130][622]LogEditorViewport: Clicking Background
+[2018.12.03-19.53.44:272][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.53.49:813][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.53.54:064][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.53.58:231][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.02:532][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.06:907][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.11:414][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.13:904][875]Cmd: DELETE
+[2018.12.03-19.54.13:904][875]Cmd: ACTOR DELETE
+[2018.12.03-19.54.13:915][875]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.54.13:944][875]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.03-19.54.15:287][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.18:005][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.27:180][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.31:500][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.35:402][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.40:387][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.44:599][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.50:029][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.53:099][860]Cmd: DELETE
+[2018.12.03-19.54.53:099][860]Cmd: ACTOR DELETE
+[2018.12.03-19.54.53:110][860]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.54.53:140][860]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.03-19.54.54:187][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.54.56:492][214]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_97)
+[2018.12.03-19.54.56:839][247]Cmd: DELETE
+[2018.12.03-19.54.56:839][247]Cmd: ACTOR DELETE
+[2018.12.03-19.54.56:850][247]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.54.56:880][247]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.03-19.54.57:595][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.55.03:691][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.55.09:280][585]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_107)
+[2018.12.03-19.55.11:057][783]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_106)
+[2018.12.03-19.55.15:446][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.55.21:527][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.55.27:754][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.55.34:436][209]LogEditorViewport: Clicking Background
+[2018.12.03-19.55.56:129][796]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_43)
+[2018.12.03-19.55.57:640][941]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_44)
+[2018.12.03-19.55.58:297][ 11]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_45)
+[2018.12.03-19.55.59:041][ 91]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_46)
+[2018.12.03-19.55.59:824][175]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_47)
+[2018.12.03-19.56.00:346][229]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_48)
+[2018.12.03-19.56.03:670][472]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_91)
+[2018.12.03-19.56.09:344][ 76]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_91)
+[2018.12.03-19.56.14:217][599]Cmd: EDIT COPY
+[2018.12.03-19.56.14:540][634]Cmd: EDIT PASTE
+[2018.12.03-19.56.28:746][124]LogEditorViewport: Clicking Background
+[2018.12.03-19.56.44:612][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.56.50:199][ 27]Cmd: DELETE
+[2018.12.03-19.56.50:200][ 27]Cmd: ACTOR DELETE
+[2018.12.03-19.56.50:212][ 27]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.56.50:243][ 27]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.03-19.56.50:977][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.56.54:573][496]Cmd: DELETE
+[2018.12.03-19.56.54:573][496]Cmd: ACTOR DELETE
+[2018.12.03-19.56.54:584][496]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-19.56.54:615][496]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.12.03-19.57.10:816][884]Cmd: EDIT COPY
+[2018.12.03-19.57.11:098][908]Cmd: EDIT PASTE
+[2018.12.03-19.57.21:440][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.57.25:350][177]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Grass_to_Ground_Tiles_Sprite_61)
+[2018.12.03-19.57.26:114][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-19.57.31:477][730]Cmd: ACTOR MIRROR X=-1
+[2018.12.03-19.57.32:962][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-19.57.40:255][677]LogEditorViewport: Clicking Background
+[2018.12.03-19.58.08:220][789]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_to_Ground_Tiles_Sprite_3)
+[2018.12.03-19.58.08:808][826]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_to_Ground_Tiles_Sprite_1)
+[2018.12.03-19.58.09:403][865]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Grass_to_Ground_Tiles_Sprite_9)
+[2018.12.03-19.58.10:035][906]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_5)
+[2018.12.03-19.58.11:289][992]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_105)
+[2018.12.03-19.58.12:153][ 49]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_103)
+[2018.12.03-19.58.12:820][ 92]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_100)
+[2018.12.03-19.58.13:454][134]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_101)
+[2018.12.03-19.58.15:591][243]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_102)
+[2018.12.03-19.58.16:129][275]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_99)
+[2018.12.03-19.58.16:740][312]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_98)
+[2018.12.03-19.58.23:434][845]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_71)
+[2018.12.03-19.58.34:158][782]Cmd: EDIT COPY
+[2018.12.03-19.58.34:511][813]Cmd: EDIT PASTE
+[2018.12.03-19.58.47:108][683]LogEditorViewport: Clicking Background
+[2018.12.03-19.59.04:028][580]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_76)
+[2018.12.03-19.59.12:521][ 80]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_68)
+[2018.12.03-19.59.15:637][263]Cmd: TRANSACTION UNDO
+[2018.12.03-19.59.15:637][263]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-19.59.20:591][728]Cmd: TRANSACTION UNDO
+[2018.12.03-19.59.20:591][728]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-19.59.25:092][150]Cmd: EDIT COPY
+[2018.12.03-19.59.25:803][191]Cmd: EDIT PASTE
+[2018.12.03-19.59.38:260][248]LogEditorViewport: Clicking Background
+[2018.12.03-20.00.05:372][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-20.00.06:204][660]LogSavePackage: Moving '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/DevTesting_Auto31BF1FF934923DE3415C14588072A1CDF.tmp' to '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Autosaves/Game/Project-M-Vania/Levels-Maps/DevTesting_Auto3.umap'
+[2018.12.03-20.00.06:230][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project-M-Vania/Levels-Maps/DevTesting' took 0.743
+[2018.12.03-20.00.06:230][660]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.743
+[2018.12.03-20.01.43:950][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.02.19:132][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.02.37:427][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.02.42:208][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.02.44:077][ 41]Cmd: DELETE
+[2018.12.03-20.02.44:077][ 41]Cmd: ACTOR DELETE
+[2018.12.03-20.02.44:089][ 41]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-20.02.44:119][ 41]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.03-20.02.44:861][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.02.50:566][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.02.54:625][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.02.59:970][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.04:547][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.10:169][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.20:430][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.24:610][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.29:451][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.38:666][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.43:761][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.49:161][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.03.57:282][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.02:190][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.09:201][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.18:171][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.25:578][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.33:299][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.38:923][750]Cmd: DELETE
+[2018.12.03-20.04.38:923][750]Cmd: ACTOR DELETE
+[2018.12.03-20.04.38:936][750]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-20.04.38:968][750]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.12.03-20.04.40:110][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.47:059][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.49:481][834]Cmd: DELETE
+[2018.12.03-20.04.49:481][834]Cmd: ACTOR DELETE
+[2018.12.03-20.04.49:493][834]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-20.04.49:523][834]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.12.03-20.04.51:886][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.04.56:301][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.05.03:888][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.05.07:544][738]Cmd: DELETE
+[2018.12.03-20.05.07:544][738]Cmd: ACTOR DELETE
+[2018.12.03-20.05.07:557][738]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.12.03-20.05.07:588][738]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.03-20.05.09:298][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.05.15:785][572]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_132)
+[2018.12.03-20.05.16:397][634]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_128)
+[2018.12.03-20.05.21:628][140]Cmd: TRANSACTION UNDO
+[2018.12.03-20.05.21:628][140]LogEditorTransaction: Undo Marquee Select
+[2018.12.03-20.05.23:967][289]LogEditorViewport: Clicking Background
+[2018.12.03-20.05.25:869][433]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_132)
+[2018.12.03-20.05.46:681][365]Cmd: EDIT COPY
+[2018.12.03-20.05.47:351][401]Cmd: EDIT PASTE
+[2018.12.03-20.05.56:216][ 55]Cmd: EDIT COPY
+[2018.12.03-20.05.56:839][ 79]Cmd: EDIT PASTE
+[2018.12.03-20.06.04:429][634]Cmd: EDIT COPY
+[2018.12.03-20.06.04:666][645]Cmd: EDIT PASTE
+[2018.12.03-20.06.11:955][226]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_208)
+[2018.12.03-20.06.18:415][837]Cmd: EDIT COPY
+[2018.12.03-20.06.18:780][873]Cmd: EDIT PASTE
+[2018.12.03-20.07.00:776][605]Cmd: EDIT COPY
+[2018.12.03-20.07.01:072][616]Cmd: EDIT PASTE
+[2018.12.03-20.07.28:573][ 34]Cmd: EDIT COPY
+[2018.12.03-20.07.28:884][ 57]Cmd: EDIT PASTE
+[2018.12.03-20.07.35:374][488]LogEditorViewport: Clicking Background
+[2018.12.03-20.08.38:034][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-20.09.30:059][134]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_5)
+[2018.12.03-20.09.30:843][158]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_118)
+[2018.12.03-20.09.33:413][290]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_5)
+[2018.12.03-20.09.56:039][807]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_236)
+[2018.12.03-20.09.57:285][919]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_237)
+[2018.12.03-20.09.58:206][ 15]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_124)
+[2018.12.03-20.10.01:810][374]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Tiles_Sprite_235)
+[2018.12.03-20.10.12:623][190]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.12:623][190]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.13:009][205]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.13:009][205]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.13:473][229]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.13:473][229]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.13:881][250]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.13:881][250]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.14:292][271]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.14:292][271]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.14:661][290]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.14:661][290]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.15:181][317]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.15:181][317]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.15:596][338]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.15:596][338]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.15:984][358]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.15:984][358]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.16:384][380]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.16:384][380]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.16:713][398]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.16:713][398]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.16:907][409]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.16:907][409]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.17:079][418]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.17:079][418]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.17:407][436]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.17:407][436]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.17:686][451]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.17:686][451]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.17:908][463]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.17:908][463]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.18:079][472]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.18:079][472]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.18:280][483]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.18:280][483]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.18:595][500]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.18:595][500]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.18:994][522]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.18:994][522]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.19:412][542]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.19:412][542]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.03-20.10.21:125][647]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_102)
+[2018.12.03-20.10.24:336][986]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Underground_Walls_Floors_Sprite_101)
+[2018.12.03-20.10.42:832][924]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.42:833][924]LogEditorTransaction: Undo Marquee Select
+[2018.12.03-20.10.43:211][952]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.43:211][952]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.43:631][990]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.43:631][990]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.43:981][ 24]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.43:981][ 24]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.44:312][ 56]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.44:312][ 56]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.44:665][ 92]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.44:665][ 92]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.45:040][128]Cmd: TRANSACTION UNDO
+[2018.12.03-20.10.45:040][128]LogEditorTransaction: Undo Move Actors
+[2018.12.03-20.10.46:418][224]LogEditorViewport: Clicking Background
+[2018.12.03-20.11.11:859][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-20.11.12:760][147]LogSavePackage: Moving '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/DevTesting_Auto48CA2856A45BCFDE33CB26F88E182CDFF.tmp' to '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/Autosaves/Game/Project-M-Vania/Levels-Maps/DevTesting_Auto4.umap'
+[2018.12.03-20.11.12:766][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project-M-Vania/Levels-Maps/DevTesting' took 0.826
+[2018.12.03-20.11.12:766][147]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.826
+[2018.12.03-20.25.49:025][226]LogEditorViewport: Clicking Background
+[2018.12.03-20.25.50:462][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-20.25.52:407][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-20.25.53:582][418]LogSavePackage: Moving '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Saved/DevTesting2F1352A1478920A1345C85A910DD7900.tmp' to '../../../../../../Users/P Tron/Documents/GitHub/Project-M-Vania/MyProject/Content/Project-M-Vania/Levels-Maps/DevTesting.umap'
+[2018.12.03-20.25.55:866][418]LogFileHelpers: Saving map 'DevTesting' took 3.448
